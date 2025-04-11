@@ -10,6 +10,6 @@
 [https://github.com/martanpegallo/prueba1latam] (url https://github.com/martanpegallo/prueba1latam)
 
 
-
-2- Matias Zamora (https://github.com/matitiz/Prueba-1)
+2-  Forkeado a Matias Zamora
+https://github.com/martanpegallo/Prueba-1 
 
