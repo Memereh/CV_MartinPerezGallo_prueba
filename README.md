@@ -7,7 +7,7 @@
 ## Repositorios forkeados
 
 1-  forkeado a Alfredo Muñoz 
-[https://github.com/martanpegallo/prueba1latam](url https://github.com/martanpegallo/prueba1latam)
+[https://github.com/martanpegallo/prueba1latam] (url https://github.com/martanpegallo/prueba1latam)
 
 
 
