@@ -6,7 +6,9 @@
 
 ## Repositorios forkeados
 
-1- (https://github.com/alfredoma12/prueba1latam)
+1-  Alfredo Muñoz (https://github.com/alfredoma12/prueba1latam)
 
 
+
+2- Matias Zamora (https://github.com/matitiz/Prueba-1)
 
